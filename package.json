@@ -1,0 +1,16 @@
+{
+  "name": "flame-burger",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Flame Burger \u2014 projeto conceito KS Agency",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "build": "python3 scripts/build.py",
+    "check": "node scripts/check.mjs",
+    "test:visual": "node tests/browser.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  },
+  "type": "module"
+}

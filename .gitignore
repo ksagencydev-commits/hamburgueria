@@ -1,0 +1,7 @@
+dist/
+node_modules/
+qa/
+qa-v3/
+checkpoints/
+.DS_Store
+flame-burger-v3-build.zip

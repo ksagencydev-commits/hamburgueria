@@ -1,0 +1,56 @@
+[
+  {
+    "id": "top-bun",
+    "width": 418,
+    "height": 160,
+    "ratio": 0.3827751196172249
+  },
+  {
+    "id": "lettuce",
+    "width": 418,
+    "height": 123,
+    "ratio": 0.2942583732057416
+  },
+  {
+    "id": "tomato",
+    "width": 418,
+    "height": 86,
+    "ratio": 0.20574162679425836
+  },
+  {
+    "id": "onion",
+    "width": 418,
+    "height": 76,
+    "ratio": 0.18181818181818182
+  },
+  {
+    "id": "bacon",
+    "width": 418,
+    "height": 120,
+    "ratio": 0.28708133971291866
+  },
+  {
+    "id": "cheddar",
+    "width": 418,
+    "height": 130,
+    "ratio": 0.31100478468899523
+  },
+  {
+    "id": "patty",
+    "width": 418,
+    "height": 151,
+    "ratio": 0.361244019138756
+  },
+  {
+    "id": "sauce",
+    "width": 418,
+    "height": 96,
+    "ratio": 0.22966507177033493
+  },
+  {
+    "id": "bottom-bun",
+    "width": 418,
+    "height": 125,
+    "ratio": 0.29904306220095694
+  }
+]

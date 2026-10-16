@@ -1,0 +1,74 @@
+[
+  {
+    "id": "top-bun",
+    "width": 1254,
+    "height": 474,
+    "ratio": 0.37799043062200954,
+    "src": "public/images/v4/top-bun.webp",
+    "srcset": "public/images/v4/top-bun-640.webp 640w, public/images/v4/top-bun.webp 1254w"
+  },
+  {
+    "id": "lettuce",
+    "width": 1254,
+    "height": 356,
+    "ratio": 0.2838915470494418,
+    "src": "public/images/v4/lettuce.webp",
+    "srcset": "public/images/v4/lettuce-640.webp 640w, public/images/v4/lettuce.webp 1254w"
+  },
+  {
+    "id": "tomato",
+    "width": 1254,
+    "height": 314,
+    "ratio": 0.2503987240829346,
+    "src": "public/images/v4/tomato.webp",
+    "srcset": "public/images/v4/tomato-640.webp 640w, public/images/v4/tomato.webp 1254w"
+  },
+  {
+    "id": "onion",
+    "width": 1254,
+    "height": 231,
+    "ratio": 0.18421052631578946,
+    "src": "public/images/v4/onion.webp",
+    "srcset": "public/images/v4/onion-640.webp 640w, public/images/v4/onion.webp 1254w"
+  },
+  {
+    "id": "bacon",
+    "width": 1254,
+    "height": 376,
+    "ratio": 0.29984051036682613,
+    "src": "public/images/v4/bacon.webp",
+    "srcset": "public/images/v4/bacon-640.webp 640w, public/images/v4/bacon.webp 1254w"
+  },
+  {
+    "id": "cheddar",
+    "width": 1254,
+    "height": 299,
+    "ratio": 0.23843700159489634,
+    "src": "public/images/v4/cheddar.webp",
+    "srcset": "public/images/v4/cheddar-640.webp 640w, public/images/v4/cheddar.webp 1254w"
+  },
+  {
+    "id": "patty",
+    "width": 2172,
+    "height": 724,
+    "ratio": 0.3333333333333333,
+    "src": "public/images/v4/patty-hq.webp",
+    "srcset": "public/images/v4/patty-hq-640.webp 640w, public/images/v4/patty-hq-1280.webp 1280w, public/images/v4/patty-hq.webp 2172w"
+  },
+  {
+    "id": "sauce",
+    "width": 1254,
+    "height": 296,
+    "ratio": 0.23604465709728867,
+    "src": "public/images/v4/sauce.webp",
+    "srcset": "public/images/v4/sauce-640.webp 640w, public/images/v4/sauce.webp 1254w"
+  },
+  {
+    "id": "bottom-bun",
+    "width": 1254,
+    "height": 362,
+    "ratio": 0.2886762360446571,
+    "src": "public/images/v4/bottom-bun.webp",
+    "srcset": "public/images/v4/bottom-bun-640.webp 640w, public/images/v4/bottom-bun.webp 1254w"
+  }
+]
